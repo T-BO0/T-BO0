@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-BO0&layout=compact&theme=dark&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=T-BO0&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=T-BO0&theme=darkcount_private=true)](https://git.io/streak-stats)
 
 
 <!--
