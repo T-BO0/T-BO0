@@ -4,7 +4,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=T-BO0&show_icons=true&theme=dark&hide=prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-BO0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-BO0&layout=compact&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=T-BO0&theme=dark)](https://git.io/streak-stats)
 
