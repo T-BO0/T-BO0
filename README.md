@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=T-BO0&color=blue)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=T-BO0&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=T-BO0&show_icons=true&theme=dark&hide=prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-BO0&layout=compact)
 
