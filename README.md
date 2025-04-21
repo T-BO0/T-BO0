@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-BO0&layout=compact)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=T-BO0&color=blue)
+
 <!--
 **T-BO0/T-BO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
