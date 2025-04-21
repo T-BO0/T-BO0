@@ -2,11 +2,11 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=T-BO0&color=blue)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=T-BO0&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=T-BO0&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-BO0&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=T-BO0&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=T-BO0&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
