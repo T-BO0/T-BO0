@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-BO0&layout=compact)
 
 <!--
 **T-BO0/T-BO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
