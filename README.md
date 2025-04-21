@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=T-BO0&show_icons=true&theme=radical)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=T-BO0&color=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-BO0&layout=compact)
